@@ -1,0 +1,2 @@
+def pru():
+	print("eeeeeee")
